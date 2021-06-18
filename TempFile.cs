@@ -2,7 +2,7 @@
 ---
 name: TempFile.cs
 description: CodeBit class that manages the lifetime of a temporary file.
-url: https://raw.githubusercontent.com/Bredd/TempFile/main/TempFile.cs
+url: https://raw.githubusercontent.com/bredd/TempFile/main/TempFile.cs
 version: 1.0
 keywords: CodeBit
 dateModified: 2021-06-18

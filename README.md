@@ -2,9 +2,9 @@
 
 A simple class that manages the lifetime of a temporary file.
 
-CodeBit URL: [https://raw.githubusercontent.com/Bredd/TempFile/main/TempFile.cs](https://raw.githubusercontent.com/Bredd/TempFile/main/TempFile.cs)
+CodeBit URL: [https://raw.githubusercontent.com/bredd/TempFile/main/TempFile.cs](https://raw.githubusercontent.com/bredd/TempFile/main/TempFile.cs)
 
-## About DateTag
+## About TempFile
 The class implements IDisposable and, when disposed, automatically deletes the temp file.
 The file is created using System.IO.Path.GetTempFileName();
 
